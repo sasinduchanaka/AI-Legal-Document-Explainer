@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE = "https://legal-doc-explainer.up.railway.app";
+const API_BASE = "https://keen-intuition-document-explainer.up.railway.app";
 //"http://localhost:8000"; // Change to your backend URL in production
 
 export const uploadPDF = async (file) => {
